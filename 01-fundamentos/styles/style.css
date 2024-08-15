@@ -1,0 +1,35 @@
+body{
+    padding-bottom: 100px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(202, 45, 207);
+}
+h3{
+    font-size: 30px;
+    color: rgb(48, 192, 43);
+}
+.meu-title{
+    font-size: 30px;
+    color: rgb(48, 192, 43);
+}
+#meu-h3 {
+    color: aqua;
+    
+}
+
+#minha-div{
+    background-image: url(../assents/florestas-mais-incriveis-do-mundo-2-730x486.jpg);
+    padding: 30px;
+}
+#altura-largura{
+    width: 250px;
+    height: 250px ;
+    background-color: rgb(81, 81, 107);
+}
+
+#div-espaço{
+    
+    background-color: rgb(99, 99, 129);
+    padding: 10px 20px 10px 20px;
+}
